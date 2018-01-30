@@ -5,7 +5,7 @@
 
 # CODEBLOCK FILES
 *.depend  
-*.layout  
+*.layout 
 
 # User-specific files
 *.suo
